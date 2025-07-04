@@ -8,5 +8,5 @@ Use the keypad to enter the measurements. Use the TAB key to move between the in
 Enter the Length, Width and Height of the item that you want to cover and tap Next.
 The screen will then display a view of the covering. 
 In this screen you can Make a PDF, Return to the previous screen or view the Info page.
-The PDF can be either Copied to Whatsapp or Emailed, Printed or Saved..
+The PDF can be either Copied to Whatsapp or Emailed, Printed or Saved.
 The Info page explains what the app is doing and how to use it.
