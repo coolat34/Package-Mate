@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "67DDE639-FC83-4174-9623-36010C4492B4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E44EE6C-0198-4778-8BF4-30A262EF5A2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NumericKeypad.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "NumericKeypad"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "1E44EE6C-0198-4778-8BF4-30A262EF5A2A - dd90d2dd142ace44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Package_Mate.NumericKeypad.navPath.getter : Swift.Array&lt;Package_Mate.NavTarget&gt;"
+                  moduleName = "Package-Mate.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrismilne/Docs/Swift/Package-Mate/NumericKeypad.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "1E44EE6C-0198-4778-8BF4-30A262EF5A2A - f308648ffc4eca48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Package_Mate.NumericKeypad.navPath.setter : Swift.Array&lt;Package_Mate.NavTarget&gt;"
+                  moduleName = "Package-Mate.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrismilne/Docs/Swift/Package-Mate/NumericKeypad.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "1E44EE6C-0198-4778-8BF4-30A262EF5A2A - 86e9332318f6c147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Package_Mate.NumericKeypad.navPath.modify : Swift.Array&lt;Package_Mate.NavTarget&gt;"
+                  moduleName = "Package-Mate.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrismilne/Docs/Swift/Package-Mate/NumericKeypad.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "1E44EE6C-0198-4778-8BF4-30A262EF5A2A - 5ffa756b396552c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Package_Mate.NumericKeypad.$navPath.getter : SwiftUI.Binding&lt;Swift.Array&lt;Package_Mate.NavTarget&gt;&gt;"
+                  moduleName = "Package-Mate.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrismilne/Docs/Swift/Package-Mate/NumericKeypad.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
